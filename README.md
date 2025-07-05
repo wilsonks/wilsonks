@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there! I'm glad you're here.
 
-<!--
-**wilsonks/wilsonks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I’m passionate about building impactful solutions, exploring new technologies, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- **Profession:** Bridging Software and Cloud | Innovator, Mentor, Builder 
+- **Current Role:** Engineering Head at a real money casino games development company
+- **Speciality:** Architecting and building solid business logic and matching databases for scalable, robust systems
+
+---
+
+## 🧰 Top Skills
+
+- **Programming Languages:** Java, JavaScript, Scala, C#, C++
+- **Frameworks & Tools:** Spring Boot, Express, Play Framework, Unity Engine, React
+- **Cloud:** Multi-cloud expertise (AWS, Azure, Google Cloud)
+
+---
+
+## 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [slot-gateway-express-ws-rmq](https://github.com/wilsonks/slot-gateway-express-ws-rmq) | Gateway for a slot machine app using RabbitMQ, WebSocket, and Express. | Node.js, Express, WebSocket, RabbitMQ |
+| [slot-central-server-express-rmq](https://github.com/wilsonks/slot-central-server-express-rmq) | Central server for managing slot machine game logic and communications. | Node.js, Express, RabbitMQ |
+
+---
+
+## 📫 Connect With Me
+
+- **LinkedIn:** [wilson-sam-b6aa4722](https://www.linkedin.com/in/wilson-sam-b6aa4722)
+- **Email:** wilsonks@gmail.com
+
+---
+
+Thanks for stopping by!  
+Feel free to check out my repositories, open an issue, or connect with me.
+
+---
+
+> _“Architecting simplicity out of complexity, one commit at a time.”_
