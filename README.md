@@ -25,7 +25,7 @@ I’m passionate about building impactful solutions, exploring new technologies,
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [casino-nfc-desk-electron-app](https://github.com/wilsonks/casino-nfc-desk-electron-app) | Desktop application for casino NFC desk integration, built with Electron. | Electron, JavaScript, Node.js |
+| [casino-nfc-desk-electron-app](https://github.com/wilsonks/casino-nfc-desk-electron-app) | Desktop application for casino NFC desk integration, built with Electron. | Electron, ReactJS, Redux, Node.js |
 | [slot-gateway-express-ws-rmq](https://github.com/wilsonks/slot-gateway-express-ws-rmq) | Gateway for a slot machine app using RabbitMQ, WebSocket, and Express. | Node.js, Express, WebSocket, RabbitMQ |
 | [slot-central-server-express-rmq](https://github.com/wilsonks/slot-central-server-express-rmq) | Central server for managing slot machine game logic and communications. | Node.js, Express, RabbitMQ |
 
