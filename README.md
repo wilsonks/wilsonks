@@ -16,7 +16,7 @@ I’m passionate about building impactful solutions, exploring new technologies,
 ## 🧰 Top Skills
 
 - **Programming Languages:** Java, JavaScript, Scala, C#, C++
-- **Frameworks & Tools:** Spring Boot, Express, Play Framework, Unity Engine, React, Mithril.js
+- **Frameworks & Tools:** Web-React-Redux-RxJs, Spring Boot, Express, Play Framework, Unity Engine
 - **Cloud:** Terraform, Multi-cloud expertise (AWS, Azure, Google Cloud)
 
 ---
